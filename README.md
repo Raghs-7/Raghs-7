@@ -1,72 +1,120 @@
-# 👋 Hi, I'm Raghav (Raghs-7)
+<h1 align="center">Hi 👋, I'm Raghav Dhiman (Raghs-7)</h1>
 
-I am a **CSAI Student at IIIT-Delhi** with a passion for **Artificial Intelligence, Machine Learning, and Backend Systems**. I enjoy building practical solutions to real-world problems, learning new technologies, and contributing to open-source projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=CSAI+Undergrad+%40+IIIT+Delhi;AI+%26+Backend+Developer;Python+%7C+C%2FC%2B%2B+%7C+PyTorch;Building+Scalable+Systems" />
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 **B.Tech CSAI @ IIIT Delhi**  
+💻 Passionate about **Artificial Intelligence, Machine Learning, and Backend Systems**  
+🚀 Strong foundation in **DSA, Python, C/C++, Machine Learning**  
+
+I enjoy building **practical, scalable solutions**, exploring system internals, and contributing to meaningful open-source projects.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raghs-7&theme=darkhub&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghs-7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Raghs-7&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghs-7&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-Here are some of the key technologies and tools I work with:
-
-- **Languages:** Python, C++, C  
-- **Machine Learning:** PyTorch, NumPy, Pandas  
-- **Tools & Platforms:** Git, Linux, VS Code  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243"/>
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+</p>
 
 ---
 
 ## 🚀 Areas of Interest
 
-I am actively working on improving my skills in:
-
-- Deep Learning  
-- System Design  
-- Full Stack Development  
+- Deep Learning & Applied AI  
+- Backend & System Design  
+- Full-Stack Development  
+- Scalable & Secure Applications  
 
 ---
 
 ## 📌 Featured Projects
 
-Below are some repositories from my GitHub that showcase my work:
-
 ### 🧠 AI & Machine Learning
 
-- **OPD-Assistant-chatbot**  
-  A conversational chatbot assistant designed to help with Outpatient Department (OPD) workflow and interactions. *(Python)*
+- **OPD-Assistant-Chatbot**  
+  Multilingual medical chatbot for OPD workflows, encrypted patient data, and automated report generation.
 
-- **Pytorch-tutorial**  
-  A comprehensive PyTorch notebook/tutorial for machine learning workflows and experiments. *(Jupyter Notebook)*
+- **PyTorch-Tutorials**  
+  Hands-on notebooks covering deep learning fundamentals and experiments.
 
 ### 🛠️ Systems & Simulations
 
 - **Assembler-Simulator**  
-  A Python-based simulator that models assembly code execution and instruction processing. *(Python)*
+  Instruction-level simulator for assembly programs written in Python.
 
 - **TravelManager**  
-  A logistics simulation system managing vehicle fleets and routes. *(Java)*
+  Java-based logistics simulation system for managing routes and fleets.
 
-- **ERP**  
-  A Java-based Enterprise Resource Planning (ERP) system implementation.
+- **ERP System**  
+  Java implementation of a basic Enterprise Resource Planning system.
 
-> *Note: For detailed usage, installation, and demos, visit each repository.*
-
----
-
-## 📈 GitHub Stats
-
-Here are some snapshots of my GitHub activity and engagement:
-
-![Raghav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghs-7&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghs-7&layout=compact&theme=default)
+> _For setup instructions and demos, check individual repositories._
 
 ---
 
 ## 📫 Connect With Me
 
-Feel free to reach out if you'd like to collaborate, connect, or know more about my work:
-
-- **LinkedIn:** https://www.linkedin.com/in/raghav-dhiman-a4539b324/  
-- **Email:** raghav.dhiman0703@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/raghav-dhiman-a4539b324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:raghav.dhiman0703@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://github.com/Raghs-7">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ _Thanks for visiting my GitHub profile!_  
+<p align="center">
+  <i>"Build. Break. Learn. Repeat."</i>
+</p>
