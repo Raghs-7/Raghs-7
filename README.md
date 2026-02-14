@@ -8,7 +8,7 @@ I am a **CSAI Student at IIIT-Delhi** with a passion for **Artificial Intelligen
 
 Here are some of the key technologies and tools I work with:
 
-- **Languages:** Python, C++, C  
+- **Languages:** Python, C++, C, Java, javaScript  
 - **Machine Learning:** PyTorch, NumPy, Pandas  
 - **Tools & Platforms:** Git, Linux, VS Code  
 
