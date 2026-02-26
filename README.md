@@ -16,8 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/raghav-dhiman-a4539b324/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=flat-square)](https://x.com/raghavxdhiman)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:raghav.dhiman0703@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=raghs-7&icon=5&color=6)](https://visitcount.itsvg.in)
-
 </div>
 
 ---
