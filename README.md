@@ -9,10 +9,6 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
 ```
 
-### `< Raghav Dhiman />` — Developer · ML Enthusiast · Builder
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Turning+ideas+into+reality%2C+one+commit+at+a+time;ML+%7C+ROS+%7C+Full+Stack+%7C+Systems;Always+learning%2C+always+building...)](https://git.io/typing-svg)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/raghav-dhiman-a4539b324/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=flat-square)](https://x.com/raghavxdhiman)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:raghav.dhiman0703@gmail.com)
