@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## ~About Me
 
 ```python
 class Raghav:
@@ -37,7 +37,7 @@ me.say_hi()
 
 ---
 
-## Tech Stack
+## ~Tech Stack
 
 **Languages**
 
@@ -80,7 +80,7 @@ me.say_hi()
 
 ---
 
-## GitHub Stats
+## ~GitHub Stats
 
 <div align="center">
 
@@ -93,7 +93,7 @@ me.say_hi()
 
 ---
 
-## GitHub Trophies
+## ~GitHub Trophies
 
 <div align="center">
 
@@ -103,7 +103,7 @@ me.say_hi()
 
 ---
 
-## Contribution Graph
+## ~Contribution Graph
 
 <div align="center">
 
